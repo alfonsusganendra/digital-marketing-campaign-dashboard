@@ -1,5 +1,7 @@
 # Digital Marketing Campaign Performance Dashboard
 
+[**Lihat *Dashboard* interaktif**] (https://datastudio.google.com/reporting/241015fe-4414-416f-9063-25f49af9bba6) 
+
 ## Project Objective
 *Project* ini berisi analisis efektivitas kampanye pemasaran digital. 
 Tujuan utama:
@@ -44,7 +46,6 @@ select
 	
 	-- Menghitung Click Trough Rate (%)
 	round((("clicks"::numeric / nullif("impressions",0)) * 100)::numeric, 2) as "ctr_percentage",
-	<img width="839" height="628" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/595ca399-08a4-49c1-81d9-ec530cc5e06a" />
 
 	-- Memberi label "Campaign Status"
 	case
@@ -76,10 +77,11 @@ where
 <img width="839" height="628" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/25744a2e-7065-4b15-8ea5-5179c48280ff" />
 
 ## Struktur file repository
--'README.md': Dokumentasi lengkap *project* ini. 
--'dashboard_screenshot.png': *Screenshot* tampilan *dashboard* di Looker Studio. 
--'data_transformation.sql': *Script* SQL lengkap (PostgreSQL) yang digunakan untuk *data cleaning* dan *feature engineering* di DBeaver. 
--'clean_campaign_data.csv': file data bersih hasil ekspor yang menjadi sumber data untuk visualisasi di Looker Studio. 
+- 'README.md': Dokumentasi lengkap *project* ini. 
+- 'dashboard_screenshot.png': *Screenshot* tampilan *dashboard* di Looker Studio. 
+- 'data_transformation.sql': *Script* SQL lengkap (PostgreSQL) yang digunakan untuk *data cleaning* dan *feature engineering* di DBeaver. 
+- 'clean_campaign_data.csv': file data bersih hasil ekspor yang menjadi sumber data untuk visualisasi di Looker Studio. 
+- **[Link *Dashboard* Looker Studio] (https://datastudio.google.com/reporting/241015fe-4414-416f-9063-25f49af9bba6)**
 
 --------
 Dibuat oleh saya, **Alfonsus Ganendra W. G. K.** sebagai bagian dari portfolio untuk *role* Business Analyst/Performance Analyst. 
