@@ -65,7 +65,7 @@ where
 - Hampir 90% *campaign* menghasilkan ROI -100% (tidak ada *revenue* sama sekali).
 - **Rekomendasi**: perlu *audit* untuk *market targeting* dan kualitas *ads* untuk *campaign* dengan status *loss*.
 
-2. **Konsentrasi *revenue* pada *channel* dengan *revenue* tertinggi
+2. **Konsentrasi *revenue* pada *channel* dengan *revenue* tertinggi**
 - *channel* **Social** dan **Search** mendominasi total *revenue* perusahaan (72% dari total *revenue*).
 - **Rekomendasi:** Pertahankan *budget* untuk kedua *channel* di atas dan lakukan A/B testing untuk *channel* dengan *revenue* rendah (channel Display dan Video).
 
