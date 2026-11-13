@@ -84,6 +84,6 @@ where
 - **[Link *Dashboard* Looker Studio] (https://datastudio.google.com/reporting/241015fe-4414-416f-9063-25f49af9bba6)**
 
 --------
-Dibuat oleh saya, **Alfonsus Ganendra W. G. K.** sebagai bagian dari portfolio untuk *role* Business Analyst/Performance Analyst. 
+Dibuat oleh saya, **Alfonsus Ganendra W. G. K.** sebagai bagian dari portfolio untuk *role* Data Analyst dan sejenisnya. 
 
 [LinkedIn: https://linkedin.com/in/alfonsusganendra/]
